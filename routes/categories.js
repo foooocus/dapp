@@ -1,16 +1,66 @@
 var categories = [
-{"id": 15, name: 'Food', img: 'food.jpeg'},
-{"id": 16, name: 'Games', img: 'games.jpg'},
-{"id": 117, name: 'Flowers', img: 'food.jpeg'},
-{"id": 18, name: 'Cars', img: 'cars.png'},
-{"id": 19, name: 'Computers', img: 'computers.png'},
-{"id": 20, name: 'Countries',img: 'countries.png'},
-{"id": 21, name: 'Cities', img: 'cities.png'},
-{"id": 22, name: 'Phones', img: 'phone.png'},
-{"id": 23, name: 'Tools', img: 'tools.png'},
-{"id": 24, name: 'Prisons', img: 'cars.png'},
-{"id": 27, name: 'Drinks', img: 'cars.png'}
+ {
+   "id":1,
+   "name":"Apartment",
+   "img":"apartment.jpg"
+ },
+ {
+   "id":2,
+   "name":"Community",
+   "img":"community.jpg"
+ },
+ {
+   "id":3,
+   "name":"Restaurant",
+   "img":"restaurant.jpg"
+ },
+ {
+   "id":4,
+   "name":"Baker",
+   "img":"baker.jpg"
+ },
+ {
+   "id":5,
+   "name":"Beauty",
+   "img":"beauty.jpg"
+ },
+ {
+   "id":6,
+   "name":"Class",
+   "img":"class.jpg"
+ },
+ {
+   "id":7,
+   "name":"Clothing",
+   "img":"clothing.jpg"
+ },
+ {
+   "id":8,
+   "name":"Grocery",
+   "img":"grocery.jpg"
+ },
+ {
+   "id":9,
+   "name":"Health",
+   "img":"health.jpg"
+ },
+ {
+   "id":10,
+   "name":"Misc",
+   "img":"misc.jpg"
+ },
+ {
+   "id":11,
+   "name":"Photography",
+   "img":"photography.jpg"
+ },
+ {
+   "id":12,
+   "name":"Food",
+   "img":"food.jpg"
+ }
 ];
+
 exports.getCategories = function(req, res, next) {
     res.send(categories);
 };

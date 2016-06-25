@@ -5,7 +5,7 @@ businessService = (function () {
     // The public API
     return {
         findById: function(id) {
-            return $.ajax(baseURL + "/businessPage/" + id);
+            return $.ajax(baseURL + "/businesses/" + id);
         },
         findByName: function(searchKey, category) {
             return $.ajax({url: baseURL + "/business" , data: {name: searchKey, category: category}});
