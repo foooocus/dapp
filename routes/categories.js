@@ -21,13 +21,13 @@ var categories = [
  },
  {
    "id":5,
-   "name":"Beauty",
-   "img":"beauty.jpg"
+   "name":"Grooming",
+   "img":"grooming.jpg"
  },
  {
    "id":6,
-   "name":"Class",
-   "img":"class.jpg"
+   "name":"Classes",
+   "img":"classes.jpg"
  },
  {
    "id":7,

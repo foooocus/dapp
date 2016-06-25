@@ -192,7 +192,7 @@ var businesses = [
  {
    "id":20,
    "Name":"Salon by Sara Pranu",
-   "category":"Beauty",
+   "category":"Grooming",
    "desc":"Full service hair salon",
    "address":"651 N highway 183, Ste 325, Leander TX",
    "coordinates":"30.5792326,-97.8556741",
@@ -202,7 +202,7 @@ var businesses = [
  {
    "id":21,
    "Name":"Blissful Mehendi",
-   "category":"Beauty",
+   "category":"Grooming",
    "desc":"Mehendi",
    "address":"Austin, TX",
    "coordinates":"30.3074625,-98.0335926",
@@ -212,7 +212,7 @@ var businesses = [
  {
    "id":22,
    "Name":"Singar Studio",
-   "category":"Beauty",
+   "category":"Grooming",
    "desc":"Henna, Makeup, Jewellery",
    "address":"Austin, TX",
    "coordinates":"30.3074625,-98.0335926",
@@ -222,7 +222,7 @@ var businesses = [
  {
    "id":23,
    "Name":"Noorin's Bridal Heena",
-   "category":"Beauty",
+   "category":"Grooming",
    "desc":"Mehendi, Spa, Beauty",
    "address":"The lakes blvd, Pflugerville, TX",
    "coordinates":"30.4250573,-97.6670284",
@@ -232,7 +232,7 @@ var businesses = [
  {
    "id":24,
    "Name":"Habiba",
-   "category":"Beauty",
+   "category":"Grooming",
    "desc":"Near Jollyville Rd",
    "address":"Austin, TX",
    "coordinates":"30.3074625,-98.0335926",
@@ -242,7 +242,7 @@ var businesses = [
  {
    "id":25,
    "Name":"Karishma",
-   "category":"Beauty",
+   "category":"Grooming",
    "desc":"Near Jollyville Rd",
    "address":"Austin, TX",
    "coordinates":"30.3074625,-98.0335926",
@@ -252,7 +252,7 @@ var businesses = [
  {
    "id":26,
    "Name":"Nipa",
-   "category":"Beauty",
+   "category":"Grooming",
    "desc":"Southwest Austin",
    "address":"Austin, TX",
    "coordinates":"30.3074625,-98.0335926",
@@ -262,7 +262,7 @@ var businesses = [
  {
    "id":27,
    "Name":"Mathnasium Round Rock",
-   "category":"Class",
+   "category":"Classes",
    "desc":"Maths",
    "address":"1401 Interstate 35 South, #200, Rennaisance square, Round Rock TX 78664",
    "coordinates":"30.4951848,-97.6793558",
@@ -272,7 +272,7 @@ var businesses = [
  {
    "id":28,
    "Name":"GradePower Learning",
-   "category":"Class",
+   "category":"Classes",
    "desc":"",
    "address":"1780 Round Rock Ave Suite 200, Round Rock, TX 78681",
    "coordinates":"30.5125682,-97.707148",
@@ -282,7 +282,7 @@ var businesses = [
  {
    "id":29,
    "Name":"Agni Dance",
-   "category":"Class",
+   "category":"Classes",
    "desc":"Dance",
    "address":"2302 Western Trails Blvd, Austin, TX 78745",
    "coordinates":"30.2311373,-97.795496",
@@ -292,7 +292,7 @@ var businesses = [
  {
    "id":30,
    "Name":"Cool Inventor",
-   "category":"Class",
+   "category":"Classes",
    "desc":"Programming",
    "address":"3315 El Salido Pkwy, Cedar Park, TX 78613",
    "coordinates":"30.4603702,-97.8297447",
@@ -302,7 +302,7 @@ var businesses = [
  {
    "id":31,
    "Name":"Leap4ward",
-   "category":"Class",
+   "category":"Classes",
    "desc":"Maths, Dance, Baking",
    "address":"4003, Lindo Loop, Round Rock, TX",
    "coordinates":"30.549617,-97.7386787",
@@ -312,7 +312,7 @@ var businesses = [
  {
    "id":32,
    "Name":"Academic Leap",
-   "category":"Class",
+   "category":"Classes",
    "desc":"Science & Maths",
    "address":"413 Summer Alcove Way, Austin TX ",
    "coordinates":"30.3408666,-97.9147871",
@@ -322,7 +322,7 @@ var businesses = [
  {
    "id":33,
    "Name":"Monsoon Dance",
-   "category":"Class",
+   "category":"Classes",
    "desc":"Bollywood & More",
    "address":"8650 Spicewood Springs Rd, Austin, TX",
    "coordinates":"30.4328877,-97.7726635",
@@ -332,7 +332,7 @@ var businesses = [
  {
    "id":34,
    "Name":"Mayuri Dance School",
-   "category":"Class",
+   "category":"Classes",
    "desc":"Kuchipudi",
    "address":"Austin, TX",
    "coordinates":"30.3074625,-98.0335926",
@@ -342,7 +342,7 @@ var businesses = [
  {
    "id":35,
    "Name":"Tabla Talim Sanstha",
-   "category":"Class",
+   "category":"Classes",
    "desc":"Tabla",
    "address":"Austin, TX",
    "coordinates":"30.3074625,-98.0335926",
