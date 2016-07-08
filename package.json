@@ -3,6 +3,7 @@
   "description": "Directory app",
   "version": "0.0.1",
   "dependencies": {
-    "express": "^4.10.6"
+    "express": "^4.10.6",
+    "socialbuttons": "0.0.2"
   }
 }
